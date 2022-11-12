@@ -5,7 +5,7 @@
 ### About me ☕
 
 <h6>I'm like to build some cool stuff using Java, Spring and other Backend tools.</h6>
-<h6>I'm studying Web development at this moment.
+<h6>I'm studying Web Backend development at this moment.
 
 
 ### How to reach me
