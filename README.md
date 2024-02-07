@@ -27,6 +27,7 @@
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=green"/>
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ### Tools / Systems / Frameworks
