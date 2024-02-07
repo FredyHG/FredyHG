@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=orange"/>
   <img src="https://img.shields.io/badge/css3-000.svg?&style=for-the-badge&logo=css3&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green"/>
+  <img src="https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
 ### Databases
