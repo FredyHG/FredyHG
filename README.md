@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=orange"/>
   <img src="https://img.shields.io/badge/css3-000.svg?&style=for-the-badge&logo=css3&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green"/>
-  <img src="https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
 ### Databases
@@ -40,6 +40,10 @@
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E"/>
+  <img src="https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/> 
+  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD"/>
+  <img src="https://img.shields.io/badge/jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white"/> 
 </div>
 
 ### Github Stats
