@@ -11,7 +11,6 @@
 ### How to reach me
 <div>
    <a href="https://www.linkedin.com/in/fredyhg/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
-   <a href="https://www.instagram.com/fh_gomess/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
 </div>
 
 ### Program Lenguages
